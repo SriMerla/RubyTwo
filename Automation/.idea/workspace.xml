@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f752677d-e424-4381-b758-96adadc8f0e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class" />
+        <option value="Ruby File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W4bdDbrIGXxZ6PW3lILQAzQ8Bh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+  </component>
+  <component name="RunManager" selected="Ruby.TestUnitCase">
+    <configuration name="FirstScript" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Automation" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/FirstScript.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TC_001" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Automation" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/TC_001" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TC_002" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Automation" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/TC_002.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUnitCase" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Automation" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/TestUnitCase.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Automation" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/a.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.TestUnitCase" />
+        <item itemvalue="Ruby.FirstScript" />
+        <item itemvalue="Ruby.TC_002" />
+        <item itemvalue="Ruby.TC_001" />
+        <item itemvalue="Ruby.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f752677d-e424-4381-b758-96adadc8f0e9" name="Default Changelist" comment="" />
+      <created>1578411899434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578411899434</updated>
+      <workItem from="1578411900861" duration="4983000" />
+      <workItem from="1578417396831" duration="1931000" />
+      <workItem from="1578421125570" duration="1136000" />
+      <workItem from="1578426901321" duration="6043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1686" y="351" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578411977979">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1686" y="351" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1578411977979" />
+    <state width="1220" height="144" key="GridCell.Tab.0.bottom" timestamp="1578434070641">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1220" height="144" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1578434070641" />
+    <state width="1220" height="144" key="GridCell.Tab.0.center" timestamp="1578434070641">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1220" height="144" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1578434070641" />
+    <state width="1220" height="144" key="GridCell.Tab.0.left" timestamp="1578434070641">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1220" height="144" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1578434070641" />
+    <state width="1220" height="144" key="GridCell.Tab.0.right" timestamp="1578434070641">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1220" height="144" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1578434070641" />
+    <state width="1220" height="144" key="GridCell.Tab.1.bottom" timestamp="1578434070641">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1220" height="144" key="GridCell.Tab.1.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1578434070641" />
+    <state width="1220" height="144" key="GridCell.Tab.1.center" timestamp="1578434070641">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1220" height="144" key="GridCell.Tab.1.center/0.0.2560.1080@0.0.2560.1080" timestamp="1578434070641" />
+    <state width="1220" height="144" key="GridCell.Tab.1.left" timestamp="1578434070641">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1220" height="144" key="GridCell.Tab.1.left/0.0.2560.1080@0.0.2560.1080" timestamp="1578434070641" />
+    <state width="1220" height="144" key="GridCell.Tab.1.right" timestamp="1578434070641">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1220" height="144" key="GridCell.Tab.1.right/0.0.2560.1080@0.0.2560.1080" timestamp="1578434070641" />
+    <state x="1484" y="10" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578433060798">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1484" y="10" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1080@0.0.2560.1080" timestamp="1578433060798" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Automation@a.rcov" NAME="a Coverage Results" MODIFIED="1578412299780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation" />
+    <SUITE FILE_PATH="coverage/Automation@TC_002.rcov" NAME="TC_002 Coverage Results" MODIFIED="1578429832100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation" />
+    <SUITE FILE_PATH="coverage/Automation@FirstScript.rcov" NAME="FirstScript Coverage Results" MODIFIED="1578431722423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation" />
+    <SUITE FILE_PATH="coverage/Automation@TestUnitCase.rcov" NAME="TestUnitCase Coverage Results" MODIFIED="1578433582555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation" />
+    <SUITE FILE_PATH="coverage/Automation@TC_001.rcov" NAME="TC_001 Coverage Results" MODIFIED="1578412546501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+require './a'
+
+puts "Hello World"
+obj = A.new
+obj.hello
